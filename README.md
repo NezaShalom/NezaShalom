@@ -1,5 +1,7 @@
 ### Hi there, I'm Shalom! 👋
----
+
+<hr style="border:2px solid blue">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontier
