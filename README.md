@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ReactJs or any tech related stuff
 - 📫 How to reach me: @IG_Charm
 - ⚡ Fun fact: Music is my kickstart for the day.
--->
