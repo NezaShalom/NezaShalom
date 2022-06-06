@@ -1,12 +1,6 @@
 ### Hi there, I'm Shalom! 👋
-
 #
----
-Here are some ideas to get you started:
+### 🤔 About Me :
 
-- 🔭 I’m currently working on Frontier
-- 🌱 I’m currently learning BlockChain
-- 👯 I’m looking to push the envelope a little bit.
-- 💬 Ask me about ReactJs or any tech related stuff
-- 📫 How to reach me: Twitter: [twitter: @IG_charm](https://twitter.com/IG_Charm) 
-- ⚡ Fun fact: Music is my kickstart for the day.
+- ⚡ I am an inventive web and mobile newbie developer looking forward to push the envelope.
+- 💬 I’m looking to collaborate on open source project.
